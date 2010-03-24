@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?><rss version="2.0"><channel>
 <title>Alexis Sukrieh's Git Achievements</title>
+<item><title>Apprentice Gipsy (Level 1)</title><description>Create, list, delete a tag signed with GPG using git tag</description></item>
 <item><title>Inventor (tag)</title><description>Used a command that isn't part of the built in Git command</description></item>
 <item><title>Inventor (revert)</title><description>Used a command that isn't part of the built in Git command</description></item>
 <item><title>Apprentice Archivist (Level 1)</title><description>Prepare each commit with its patch in one file per commit with git format-patch</description></item>
